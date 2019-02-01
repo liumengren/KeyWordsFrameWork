@@ -1,0 +1,11 @@
+2019-02-01 10:55:05 TestMolLogin.py[line:57]INFO开始执行用例登录MOL
+2019-02-01 10:55:11 TestMolLogin.py[line:101]INFO步骤打开浏览器执行通过！
+2019-02-01 10:55:22 TestMolLogin.py[line:101]INFO步骤访问被测试的网址执行通过！
+2019-02-01 10:55:23 TestMolLogin.py[line:101]INFO步骤最大化窗口执行通过！
+2019-02-01 10:55:29 TestMolLogin.py[line:101]INFO步骤等待登录主页加载完成执行通过！
+2019-02-01 10:55:29 TestMolLogin.py[line:101]INFO步骤输入登录用户名执行通过！
+2019-02-01 10:55:29 TestMolLogin.py[line:101]INFO步骤输入密码执行通过！
+2019-02-01 10:55:30 TestMolLogin.py[line:101]INFO步骤单击登陆按钮执行通过！
+2019-02-01 10:55:35 TestMolLogin.py[line:101]INFO步骤等待执行通过！
+2019-02-01 10:55:38 TestMolLogin.py[line:101]INFO步骤关闭浏览器执行通过！
+2019-02-01 10:55:38 TestMolLogin.py[line:107]INFO共1条用例，1条需要被执行，本次执行通过1条
