@@ -189,4 +189,4 @@ def waitVisibilityOfElementLocated(locationType, locatorExpression, *arg):
     try:
         waitUtil.visibility_element_located(locationType, locatorExpression)
     except Exception as e:
-        raise  e
+        raise e
